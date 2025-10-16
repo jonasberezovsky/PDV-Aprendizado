@@ -1,2 +1,2 @@
 #projeto teste
-## projeto utilizando o git hub e git hub desktop
+## projeto teste utilizando o git hub e git hub desktop
